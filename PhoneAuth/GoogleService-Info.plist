@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>564690177456-cgt02t48qcc5usrac7mdr2f8t8na7ut8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.564690177456-cgt02t48qcc5usrac7mdr2f8t8na7ut8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_lN2O3abJNuMfVhH9OMdYLTjziTSy7j0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>564690177456</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tariqalmazyad.PhoneAuth</string>
+	<key>PROJECT_ID</key>
+	<string>phoenauth-66b77</string>
+	<key>STORAGE_BUCKET</key>
+	<string>phoenauth-66b77.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:564690177456:ios:2910eea96d69baf0d15a75</string>
+</dict>
+</plist>
